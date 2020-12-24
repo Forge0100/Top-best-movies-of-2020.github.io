@@ -19,11 +19,11 @@ p{
 }
 body {
 	background-color: #483D8B;
-	background-image: url(images/zvezda.jpg);
+	background-image: url(../images/zvezda.jpg);
 	background-attachment: fixed;
 }
 header {
-	background-image: url(images/Backgroundh.jpg);
+	background-image: url(../images/Backgroundh.jpg);
 	height: 150px;
 }
 nav ul{
